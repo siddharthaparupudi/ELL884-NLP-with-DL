@@ -36,6 +36,7 @@ STree encodes the trees in a parent pointer format. Each line corresponds to eac
 	2 = test
 	3 = dev
 
+
 Please note that the datasetSentences.txt file has more sentences/lines than the original_rt_snippet.txt. 
 Each row in the latter represents a snippet as shown on RT, whereas the former is each sub sentence as determined by the Stanford parser.
 
